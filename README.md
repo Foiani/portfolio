@@ -29,11 +29,4 @@ Este é o meu portfólio pessoal, desenvolvido com **HTML5, CSS3 e JavaScript pu
 
 ---
 
-## 🎥 Prévia animada
-
-![GIF do portfólio](https://via.placeholder.com/800x400/141824/7b4ae0?text=GIF+em+breve)  
-*(Dica: grave um GIF do seu site com o [ScreenToGif](https://www.screentogif.com/) e substitua este link)*
-
----
-
 ## 📂 Estrutura do repositório
