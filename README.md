@@ -29,4 +29,3 @@ Este é o meu portfólio pessoal, desenvolvido com **HTML5, CSS3 e JavaScript pu
 
 ---
 
-## 📂 Estrutura do repositório
